@@ -1,0 +1,27 @@
+{
+  "name": "devfbatch18b-victor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "holaMundoConNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSolis20/devFBatch18B-Victor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorSolis20/devFBatch18B-Victor/issues"
+  },
+  "homepage": "https://github.com/VictorSolis20/devFBatch18B-Victor#readme",
+  "devDependencies": {
+    "express": "^4.18.1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
